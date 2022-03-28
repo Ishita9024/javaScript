@@ -1,0 +1,26 @@
+[
+    {
+        "username": "ishu",
+        "password": "viahu@123",
+        "description": "sdfg",
+        "dob": "as",
+        "hobbies": "sdfgh",
+        "gender": "sdfg"
+    },
+    {
+        "username": "razia",
+        "password": "razi@12",
+        "description": "sdfgh",
+        "dob": "asdfg",
+        "hobbies": "sdfg",
+        "gender": "sdf"
+    },
+    {
+        "username": "neha",
+        "password": "neha@1234",
+        "description": "qwer",
+        "dob": "qwert",
+        "hobbies": "qwer",
+        "gender": "F"
+    }
+]
